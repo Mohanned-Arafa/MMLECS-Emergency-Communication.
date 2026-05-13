@@ -1,4 +1,5 @@
 # MMLECS-Emergency-Communication.
+Please read the document
 Morse Code Multi-Level Emergency Communication System using Arduino UNO
 MMLECS: Morse Code Emergency System📝
 Overview 
@@ -10,7 +11,9 @@ It features two modes: Manual Morse and a 4-level pre-loaded messaging system.
 * Capacitive Touch Interface: Using TTP223 for intuitive input.  🛠️ Hardware Used* Arduino UNO.
 * 74LS04 NOT Gate.
 * TTP223 Touch Sensor.
-* 3S Li-ion Battery with BMS (HX-35-01).  ### 👥 Team: 0xHexa 1. Mohanned Ahmed (Team Leader).
+* 3S Li-ion Battery with BMS (HX-35-01).
+*   ### 👥 Team: 0xHexa
+1. Mohanned Ahmed (Team Leader).
 2. Abdullah Mohammed.
 3. Ahmed Nasser.
 4. Ali Ashraf
